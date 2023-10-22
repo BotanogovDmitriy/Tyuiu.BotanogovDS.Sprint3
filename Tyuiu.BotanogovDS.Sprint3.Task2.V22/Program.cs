@@ -17,9 +17,9 @@ namespace Tyuiu.BotanogovDS.Sprint3.Task2.V22
             Console.Title = "Спринт #3 | Выполнил: Ботаногов Д. С. | ИСТНб-23-1";
             
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #2                                                               *");
+            Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Оператор цикла while                                              *");
-            Console.WriteLine("* Задание #1                                                              *");
+            Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант 22                                                              *");
             Console.WriteLine("* Выполнил: Ботаногов Дмитрий Сергеевич | АСОиУб-23-1                     *");
             Console.WriteLine("***************************************************************************");

@@ -18,7 +18,7 @@ namespace Tyuiu.BotanogovDS.Sprint3.Task2.V22.Lib
                 multSeries *= Math.Pow(3 / (startValue + Math.Pow(value, -startValue)), 2);
                 startValue++;
             } while (startValue <= stopValue);
-            return Math.Round(multSeries, 3);
+            return Math.Round(multSeries, 3); 
         }
     }
 }
