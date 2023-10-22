@@ -12,7 +12,7 @@ namespace Tyuiu.BotanogovDS.Sprint3.Task0.V17.Test
         public void ValidGetSumSeries()
         {
             DataService ds = new DataService();
-            Assert.AreEqual(-0.709, ds.GetSumSeries(1, 10));
+            Assert.AreEqual(-0.709, ds.GetSumSeries(1, 10)); 
 
         }
     }

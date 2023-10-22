@@ -18,7 +18,7 @@ namespace Tyuiu.BotanogovDS.Sprint3.Task0.V17.Lib
                 res += Math.Cos(i) / 2;
             }
 
-            return Math.Round(res, 3);
+            return Math.Round(res, 3); 
 
         }
     }

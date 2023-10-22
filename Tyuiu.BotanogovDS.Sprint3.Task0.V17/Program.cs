@@ -46,7 +46,7 @@ namespace Tyuiu.BotanogovDS.Sprint3.Task0.V17
             Console.WriteLine("Сумма ряда = " + res);
 
 
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
 
     }
