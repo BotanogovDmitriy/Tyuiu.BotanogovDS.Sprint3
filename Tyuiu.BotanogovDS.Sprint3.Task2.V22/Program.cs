@@ -21,7 +21,7 @@ namespace Tyuiu.BotanogovDS.Sprint3.Task2.V22
             Console.WriteLine("* Тема: Оператор цикла while                                              *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант 22                                                              *");
-            Console.WriteLine("* Выполнил: Ботаногов Дмитрий Сергеевич | АСОиУб-23-1                     *");
+            Console.WriteLine("* Выполнил: Ботаногов Дмитрий Сергеевич | ИСТНб-23-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Условие:                                                                *");
             Console.WriteLine("* Написать программу используя цикл do...while, которая вычисляет         *");

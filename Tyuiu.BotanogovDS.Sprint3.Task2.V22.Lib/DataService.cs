@@ -12,7 +12,7 @@ namespace Tyuiu.BotanogovDS.Sprint3.Task2.V22.Lib
     {
         public double GetMultiplySeries(int value, int startValue, int stopValue)
         {
-            double multSeries = 1;
+            double multSeries = 1; 
             do
             {
                 multSeries *= Math.Pow(3 / (startValue + Math.Pow(value, -startValue)), 2);

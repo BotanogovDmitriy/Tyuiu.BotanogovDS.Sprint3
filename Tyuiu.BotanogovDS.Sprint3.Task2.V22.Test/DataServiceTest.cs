@@ -10,7 +10,7 @@ namespace Tyuiu.BotanogovDS.Sprint3.Task2.V22.Test
     {
         [TestMethod]
         public void TestMethod1()
-        {
+        { 
             DataService ds = new DataService();
             int value = 5, startValue = 1, stopValue = 7;
             double res = ds.GetMultiplySeries(value, startValue, stopValue);
