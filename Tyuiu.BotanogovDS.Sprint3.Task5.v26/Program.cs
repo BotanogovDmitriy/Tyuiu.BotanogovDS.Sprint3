@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Tyuiu.BotanogovDS.Sprint3.Task5.v26.Lib;
+using Tyuiu.BotanogovDS.Sprint3.Task6.v26.Lib;
 
-namespace Tyuiu.BotanogovDS.Sprint3.Task5.v26
+namespace Tyuiu.BotanogovDS.Sprint3.Task6.v26
 {
     class Program
     {
