@@ -10,7 +10,7 @@ namespace Tyuiu.BotanogovDS.Sprint3.Task6.v26
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             DataService ds = new DataService();
             Console.WriteLine("***************************************************************************");
